@@ -26,7 +26,7 @@ namespace Pulse
         public float flipGracePeriod = 0.5f;
 
         [Header("Difficulty ramp (0 → rampDuration seconds)")]
-        public float rampDuration = 150f;
+        public float rampDuration = 90f;
         public Vector2 spawnInterval = new Vector2(1.0f, 0.38f);
         [Tooltip("Seconds for an object to cross the playfield to the floor.")]
         public Vector2 travelTime = new Vector2(3.0f, 1.4f);
