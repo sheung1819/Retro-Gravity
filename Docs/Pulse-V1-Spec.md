@@ -86,5 +86,5 @@ matters a lot for making the flip moment read clearly to the player).
 - **Flip invulnerability**: yes. The player can't be hit during the 0.4s
   transition plus a 0.5s grace period after it (the catcher blinks). Good
   objects left behind the new floor by a flip don't count as misses.
-- **Difficulty ramp** over 150s: spawn interval 1.0s → 0.38s, crossing time
+- **Difficulty ramp** over 90s: spawn interval 1.0s → 0.38s, crossing time
   3.0s → 1.4s, hazard chance 25% → 45%, flip interval 8–16s → 5–9s.
